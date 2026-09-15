@@ -14,7 +14,7 @@ This project is an E-Commerce Sales & Customer Insights Dashboard built in Micro
 7. How long do we take to ship the orders?
 8. How happy are our customers?
 
-## Dashboard
+## Dashboard Interaction
 - <a href= "https://github.com/ayeshabin-nikhath/E-commerce-Sales-Customer-Insights-Dashboard-Excel-Project/blob/main/Screenshot%202026-09-15%20202656.png"> Interactive Dataset Nova Cart</a>
 
 ## Business Value
@@ -23,11 +23,15 @@ This dashboard demonstrates how raw transaction data can be converted into actio
 
 Potential business applications include:
 
-📢 Marketing channel optimization
-🛍️ Product assortment decisions
-👥 Customer segmentation
-📦 Inventory planning
-🚚 Delivery performance monitoring
-⭐ Customer experience management
-📊 Management reporting
-💰 Sales performance tracking
+1. 📢 Marketing channel optimization
+2. 🛍️ Product assortment decisions
+3. 👥 Customer segmentation
+4. 📦 Inventory planning
+5. 🚚 Delivery performance monitoring
+6. ⭐ Customer experience management
+7. 📊 Management reporting
+8. 💰 Sales performance tracking
+
+##  Dashboard
+<img width="1167" height="650" alt="Screenshot 2026-09-15 202656" src="https://github.com/user-attachments/assets/8664904b-7bb8-4830-a17d-363f1045287e" />
+
