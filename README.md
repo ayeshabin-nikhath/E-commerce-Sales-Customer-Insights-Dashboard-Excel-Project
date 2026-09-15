@@ -38,6 +38,7 @@ Potential business applications include:
 ## Conclusion
 
 -The Nova Cart Sales Analysis provides an overview of the company’s sales performance, customer purchasing behavior, product popularity, and delivery experience.
+
 -The analysis helps identify sales trends, preferred purchasing channels, popular products, and customer satisfaction levels. While Nova Cart is generating consistent sales, there are opportunities to improve performance by strengthening high-performing sales channels, promoting popular products, improving delivery efficiency, and focusing on customer satisfaction.
 
 
